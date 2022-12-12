@@ -1,0 +1,23 @@
+/*
+    base css
+*/
+
+.container {
+    max-width: 1120px;
+    margin: 0 auto;
+}
+
+/*
+    header
+*/
+
+.header_top {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.header__title {
+    line-height: 1px;
+}

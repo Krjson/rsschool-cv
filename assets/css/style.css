@@ -21,3 +21,22 @@
 .header__title {
     line-height: 1px;
 }
+
+/*
+    main
+*/
+
+section {
+    width: 33.3%;
+}
+
+.main__container {
+    display: flex;
+    flex-wrap: wrap;
+    place-content: space-between center;
+}
+
+.language {
+    align-self: center;
+    align-items: center;
+} 

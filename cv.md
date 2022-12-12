@@ -19,3 +19,11 @@ I'm a novice alcoholic, no, not like that. I am a beginner front-end programmer.
 * Git, GitHub
 * VS Code
 * Adobe Photoshop, Illustrator, Figma
+
+## Code example:
+
+```javascript
+function multiply(a, b){
+  return a * b
+}
+```

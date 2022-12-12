@@ -27,3 +27,7 @@ function multiply(a, b){
   return a * b
 }
 ```
+
+## Work experience
+
+There are no other projects besides this cv

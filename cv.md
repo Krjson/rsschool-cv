@@ -1,6 +1,6 @@
 # Daniil Troyanov
 *Alcoholic, oops junior front-end programmer*
-![It's me](/assets/images/logo/me.png)
+![It's me](/assets/img/logo/me.png)
 
 ## Contact information
 

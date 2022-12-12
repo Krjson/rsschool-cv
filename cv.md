@@ -31,3 +31,7 @@ function multiply(a, b){
 ## Work experience
 
 There are no other projects besides this cv
+
+## Courses:
+
+there will be a list of courses

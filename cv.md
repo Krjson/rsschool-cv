@@ -35,3 +35,8 @@ There are no other projects besides this cv
 ## Courses:
 
 there will be a list of courses
+
+## Languages:
+
+* Russian - native
+* English - a2
